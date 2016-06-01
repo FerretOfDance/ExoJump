@@ -5,9 +5,21 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound"/>
-  <sprites name="sprites"/>
-  <backgrounds name="background"/>
+  <sprites name="sprites">
+    <sprite>sprites\spr_collision_box_64</sprite>
+  </sprites>
+  <backgrounds name="background">
+    <background>background\bg_001_sky</background>
+    <background>background\tileset_001_platforms</background>
+  </backgrounds>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\obj_collision_box</object>
+    <object>objects\obj_player</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\room_001</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>

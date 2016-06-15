@@ -8,6 +8,7 @@
   <sprites name="sprites">
     <sprite>sprites\spr_collision_box_64</sprite>
     <sprite>sprites\spr_pc_plchldr</sprite>
+    <sprite>sprites\spr_player_002</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_001_sky</background>
@@ -19,6 +20,7 @@
     <object>objects\obj_player</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\room_002</room>
     <room>rooms\room_001</room>
   </rooms>
   <help>

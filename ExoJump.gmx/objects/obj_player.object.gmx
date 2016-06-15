@@ -38,6 +38,7 @@ slideremaining = 30;
 slideduration = 30;
 slideinterval = 30;
 jumping = 0;
+image_speed = 0.25;
 </string>
           </argument>
         </arguments>

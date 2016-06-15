@@ -9,6 +9,8 @@
     <sprite>sprites\spr_collision_box_64</sprite>
     <sprite>sprites\spr_pc_plchldr</sprite>
     <sprite>sprites\spr_player_002</sprite>
+    <sprite>sprites\Button</sprite>
+    <sprite>sprites\Button_Pressed</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_001_sky</background>
@@ -21,6 +23,7 @@
   <objects name="objects">
     <object>objects\obj_collision_box</object>
     <object>objects\obj_player</object>
+    <object>objects\obj_end_level</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_002</room>

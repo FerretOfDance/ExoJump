@@ -29,7 +29,7 @@
 grav = 0.2;
 hsp = 0;
 vsp = 0;
-jumpspeed = 14;
+jumpspeed = 5;
 movespeed = 8;
 slidespeed = 16;
 slidedelaystart = 10;
